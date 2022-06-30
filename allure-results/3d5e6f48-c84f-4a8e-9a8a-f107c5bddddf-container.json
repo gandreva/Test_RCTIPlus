@@ -1,0 +1,1 @@
+{"uuid":"3d5e6f48-c84f-4a8e-9a8a-f107c5bddddf","name":"TestAutomation.BaseWebTest.quitDriver","description":"","start":1646844444572,"stop":1646844445391,"children":["fb7fcd9b-0fa9-4c2e-bcd7-533166e4adb2"],"afters":[{"name":"quitDriver","status":"passed","stage":"finished","description":"","start":1646844444573,"stop":1646844445391}]}

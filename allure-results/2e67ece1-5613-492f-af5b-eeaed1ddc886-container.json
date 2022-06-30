@@ -1,0 +1,1 @@
+{"uuid":"2e67ece1-5613-492f-af5b-eeaed1ddc886","name":"tugasTiga.TugasJLabsQA.BaseWebTest.quitDriver","description":"","start":1640095143485,"stop":1640095144190,"children":["29947b51-e29e-4609-8130-ea08bd99a949"],"afters":[{"name":"quitDriver","status":"passed","stage":"finished","description":"","start":1640095143485,"stop":1640095144190}]}
